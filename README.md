@@ -24,6 +24,8 @@ O repositório está organizado por módulos seguindo a ordem cronológica do ap
 2. **`2_HTML/`**: Fundamentos de HTML, tags, listas, tabelas e links.
 3. **`3_CSS/`**: Estilização avançada, seletores, classes, IDs, modelos de caixa e posicionamento.
 4. **`4_PROJETO_TRIBUTO/`**: Primeiro projeto prático aplicando conhecimentos de HTML e CSS.
+5. **`5_FORM/`**: Estudo detalhado de formulários: inputs, selects, textareas e validações.
+6. **`6_PROJETO_FORM/`**: Projeto prático de criação de um formulário de venda de veículos estilizado.
 
 ---
 
@@ -34,5 +36,11 @@ O repositório está organizado por módulos seguindo a ordem cronológica do ap
 Um projeto focado em semântica HTML e estilização CSS para criar uma página informativa sobre o jogo **Baldur's Gate 3**.
 
 * **Tecnologias:** HTML5 e CSS3.
-* **Destaques:** Uso de listas personalizadas para curiosidades, seções de citação (`blockquote`) e layout responsivo com imagens.
-* **Imagens:** O projeto utiliza recursos visuais como o banner oficial da Steam e screenshots de gameplay.
+* **Destaques:** Uso de listas personalizadas, seções de citação e layout organizado com uso de imagens.
+
+### 🚗 Formulário: Venda de Carros
+
+Um projeto que desenvolve um formulário completo e para o anúncio de veículos.
+
+* **Tecnologias:** HTML5 e CSS3 (focado em UI de formulários).
+* **Destaques:** Uso de diversos tipos de entrada, campos obrigatórios e um layout moderno inspirado no Google Forms.

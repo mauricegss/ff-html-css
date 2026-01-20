@@ -11,6 +11,7 @@ Neste módulo, o foco foi a construção da base fundamental do desenvolvimento 
 * **HTML5:** Tags, semântica e estruturação de documentos.
 * **CSS3:** Box Model, seletores, Positions, Flexbox e estilização avançada.
 * **Responsividade:** Criação de layouts que se adaptam a diferentes dispositivos.
+* **Deploy:** Processo de publicação de projetos na web.
 
 ---
 
@@ -25,6 +26,9 @@ O repositório está organizado por módulos seguindo a cronologia do curso:
 6. **`6_PROJETO_FORM/`**: Interface de venda de veículos.
 7. **`7_RESPONSIVIDADE/`**: Técnicas para tornar os projetos acessíveis em mobile.
 8. **`8_PROJETO_HOST/`**: Criação de uma landing page para serviço de hospedagem.
+9. **`9_FLEXBOX/`**: Aprofundamento em alinhamentos e layouts flexíveis.
+10. **`9.5_DEPLOY/`**: (Extra) Focado em ensinar como realizar deploys web e aplicar temas (Dark Mode).
+11. **`10_PROJETO_INSTA/`**: Clone da página de login do Instagram (Foco em CSS).
 
 ---
 
@@ -37,7 +41,10 @@ Projeto focado em semântica e layout organizado. Aplicação prática de listas
 Desenvolvimento de uma UI moderna inspirada no Google Forms, explorando diversos tipos de entradas e campos obrigatórios.
 
 ### 🌐 Landing Page: hDCHost
-Uma landing page profissional para serviços de hospedagem, explorando layouts flexíveis com Flexbo integração de ícones externos, e foco total em adaptabilidade para diferentes dispositivos.
+Uma landing page profissional para serviços de hospedagem, explorando layouts flexíveis com Flexbox, integração de ícones externos, e foco total em adaptabilidade para diferentes dispositivos.
+
+### 📸 Clone: Login Instagram
+Replicação da página de login do Instagram (Desktop e Mobile). O projeto consolida o uso de containers flexíveis para o alinhamento dos elementos, e aplica media queries para ajuste de layout.
 
 ---
 

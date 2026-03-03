@@ -55,4 +55,4 @@ Um layout estruturado focando nas melhores práticas de SEO e acessibilidade atr
 
 ## 🔗 Outras Partes da Formação
 * [Parte 2: JavaScript](https://github.com/mauricegss/ff-javascript)
-* [Parte 3: React e TypeScript (Em breve)]()
+* [Parte 3: React e TypeScript](https://github.com/mauricegss/ff-react)
